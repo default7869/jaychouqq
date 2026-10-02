@@ -1,16 +1,5 @@
 {
-  "wallpaper": "https://tv.nxog.top/m/t/",
-  "spider": "https://gh-proxy.org/https://raw.githubusercontent.com/wliqi495-create/jaychouqq/refs/heads/main/yingshi/jar1/0406go2.jpg;md5;5af5edf697f25b99eb189fb800e1d098",
-  "warningText": "",
   "sites": [
-    {
-      "key": "豆瓣[官]_2.js",
-      "name": "💥豆瓣💥",
-      "type": 3,
-      "api": "https://gh-proxy.org/https://raw.githubusercontent.com/wliqi495-create/jaychouqq/refs/heads/main/yingshi/js/drpy2.min.js",
-      "changeable": 0,
-      "ext": "https://gh-proxy.org/https://raw.githubusercontent.com/wliqi495-create/jaychouqq/refs/heads/main/yingshi/js2/豆瓣[官]_2.js"
-    },
     {
       "key": "玩蛋吧.py",
       "name": "💥玩蛋吧💥",
